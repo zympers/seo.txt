@@ -1,3 +1,4 @@
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt">
 <a href="http://bugcontainer.gq"title="Defacer"></a>Security</a>
+<a href="https://murrez.blogspot.com/"title="priv8"></a>Priv Script</a>
 </p>
