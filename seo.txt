@@ -1,3 +1,3 @@
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt">
-<a href="https://murrez.blogspot.com/"title="z3r0fy"></a>Webb Application Security</a>
+<a href="https://z3r0fy.blogspot.com/"title="z3r0fy"></a>Webb Application Security</a>
 </p>
