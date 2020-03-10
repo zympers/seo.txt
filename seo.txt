@@ -1,4 +1,5 @@
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt">
 <a href="https://hackerhubb.blogspot.com/"title="hackerhub"></a>hackerhub</a>
 <a href="https://www.mektup.gen.tr/"title="Mektup Örnekleri"></a>Mektup Örnekleri</a>
+<a href="https://www.mektup.gen.tr/"title="Motivasyon Mektubu"></a>Motivasyon Mektubu</a>
 </p>
