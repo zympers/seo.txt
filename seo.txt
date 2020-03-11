@@ -1,5 +1,5 @@
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt">
 <a href="https://hackerhubb.blogspot.com/"title="hackerhub"></a>hackerhub</a>
-<a href="https://hackerhubb.blogspot.com/"title="Exploit"></a>Exploit</a>
-<a href="https://hackerhubb.blogspot.com/"title="Keylogger"></a>Keylogger</a>
+<a href="https://www.ortamim.com/"title="sohbet"></a>sohbet</a>
+<a href="https://www.ortamim.com/"title="ortam"></a>ortam</a>
 </p>
