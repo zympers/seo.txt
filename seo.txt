@@ -1,5 +1,5 @@
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt">
-<a href="https://hackerhubb.blogspot.com/"title="hackerhub"></a>hackerhub</a>
-<a href="https://hackerhubb.blogspot.com/"title="exploit"></a>exploit</a>
-<a href="https://hardstresser.com/"title="stresser"></a>stresser</a>
+<a href="https://hackerhubb.blogspot.com/" target="_blank" rel="dofollow" title="hackerhub">hackerhub</a>
+<a href="https://hackerhubb.blogspot.com/" target="_blank" rel="dofollow" title="exploit">exploit</a>
+<a href="https://hardstresser.com/" target="_blank" rel="dofollow" title="stresser">stresser</a>
 </p>
