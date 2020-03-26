@@ -1,4 +1,4 @@
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt">
 <a href="https://hackerhubb.blogspot.com/" target="_blank" rel="dofollow" title="hackerhub">hackerhub</a>
-<a href="https://hackerhubb.blogspot.com/" target="_blank" rel="dofollow" title="exploit">exploit</a>
+<a href="https://teknolojimen.blogspot.com/" target="_blank" rel="dofollow" title="teknoloji">teknoloji</a>
 </p>
