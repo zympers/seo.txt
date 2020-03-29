@@ -1,9 +1,4 @@
-<?php
-if(preg_match('/Google Web Preview|bot|Googlebot|google|spider|wget/i',$_SERVER['HTTP_USER_AGENT'])){ 
-
-$classipress = '
-<n uers="uggcf://unpxreuhoo.oybtfcbg.pbz" gvgyr="unpxreuho">unpxreuho</n>
-<n uers="uggcf://grxabybwvzra.oybtfcbg.pbz/" gvgyr="Grxabybwv">Grxabybwv</n>
-echo str_rot13($classipress);
-
-?>
+<p style="overflow: auto; position: fixed; height: 0pt; width: 0pt">
+<a href="https://hackerhubb.blogspot.com/" target="_blank" rel="dofollow" title="hackerhub">hackerhub</a>
+<a href="https://teknolojimen.blogspot.com/" target="_blank" rel="dofollow" title="Teknoloji">Teknoloji</a>
+</p>
