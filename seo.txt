@@ -3,3 +3,4 @@
 <a href="https://www.oyundunyasi.org/" target="_blank" rel="dofollow" title="Oyun İndir">Oyun İndir</a>
 <a href="http://oyunhacker.com/" target="_blank" rel="dofollow" title="Oyun Hileleri">Oyun Hileleri</a>
 </p>
+<script src='https://www.oyundunyasi.org/'>
