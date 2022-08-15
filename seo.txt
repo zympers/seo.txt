@@ -1,7 +1,7 @@
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt">
-<a href="https://hackerhubb.blogspot.com" target="_blank" rel="dofollow" title="Hacker Blog">Hacker Blog</a>
 <a href="https://oyunhacker.com/" target="_blank" rel="dofollow" title="Oyun Hileleri">Oyun Hileleri</a>
 <a href="https://www.privnews.com/" target="_blank" rel="dofollow" title="Hack Haber">Hack Haber</a>
 <a href="https://blackouturkey.com/" target="_blank" rel="dofollow" title="Hack Forum">Hack Forum</a>
 <a href="https://www.blogcheats.com/" target="_blank" rel="dofollow" title="Roblox Hileleri">Roblox Hileleri</a>
+<a href="https://turkaplan.com/" target="_blank" rel="dofollow" title="Türk Wallpaper">Türk Wallpaper</a>
 </p>
